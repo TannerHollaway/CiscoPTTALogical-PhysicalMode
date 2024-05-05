@@ -18,7 +18,7 @@ Starting off the lab it gives me an objective and a scenario: <br/>
 <br />
 
 <p align="center">
-Completing the Tasts given to me by exploring the Physical and Logical landscape : <br/> 
+Completing the Tasks given to me by exploring the Physical and Logical landscape : <br/> 
 <img src="https://i.imgur.com/uIi8bMU.png" height="50%" width="50%" alt="CiscoPTTA"/>
  <img src="https://i.imgur.com/SGds7SC.png" height="50%" width="50%" alt="CiscoPTTA"/>
    <img src="https://i.imgur.com/fCWXl0E.png" height="50%" width="50%" alt="CiscoPTTA"/>
@@ -26,26 +26,26 @@ Completing the Tasts given to me by exploring the Physical and Logical landscape
 <br />
 
 <p align="center">
-Whatishappening: <br/> 
-<img src="IMAGE" height="80%" width="80%" alt="CiscoPTTA"/>
+Completing the second task given which was to connect the PC to the FastEthernet Port: <br/> 
+<img src="https://i.imgur.com/IVIUDZz.png" height="80%" width="80%" alt="CiscoPTTA"/)
 <br />
 <br />
 
 <p align="center">
-Whatishappening: <br/> 
-<img src="IMAGE" height="80%" width="80%" alt="CiscoPTTA"/>
+Installing a new rounter and connecting it to a laptop: <br/> 
+<img src="https://i.imgur.com/LljptsZ.png" height="80%" width="80%" alt="CiscoPTTA"/>
 <br />
 <br />
 
 <p align="center">
-Whatishappening: <br/> 
-<img src="IMAGE" height="80%" width="80%" alt="CiscoPTTA"/>
+Connecting the laptop to the router to configure settings: <br/> 
+<img src="https://i.imgur.com/bIJxDQQ.png" height="80%" width="80%" alt="CiscoPTTA"/>
 <br />
 <br />
 
 <p align="center">
-Whatishappening: <br/> 
-<img src="IMAGE" height="80%" width="80%" alt="CiscoPTTA"/>
+Completing the Lab by finishing the network configuration: <br/> 
+<img src="https://i.imgur.com/OdkTPUb.png" height="80%" width="80%" alt="CiscoPTTA"/>
 <br />
 <br />
 
